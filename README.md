@@ -1,4 +1,4 @@
-# Discription
+# Description
  To implement a basic frontend of an E-commerce website, which tells us about how basically the structurization and coding part works for the website development. This has been performed as a project for a learning module which we were assigned to.
 
 The team was of 11 members who were working on this project. Falaq, Samiullah, Manish, Sachin, Saurav, Aravind, Sharmila, Deepak, Aisharja, Akshunna, Sam
